@@ -25,8 +25,6 @@ Hi, I'm Tae Hyun Jung(Theo). I'm looking for a job. I have 3 years experience in
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TheoBlanc&theme=monokai&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheoBlanc&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-
 <!--
 **Theoblanc/Theoblanc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
