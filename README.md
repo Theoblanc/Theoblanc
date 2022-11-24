@@ -27,8 +27,6 @@ Hi, I'm Tae Hyun Jung(Theo). I'm looking for a job. I have 3 years experience in
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=TheoBlanc&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!--
 **Theoblanc/Theoblanc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
