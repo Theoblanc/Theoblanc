@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I'm Tae Hyun Jung(Theo). I'm looking for a job. I have 3 years experience in Korea.
+Hi, I'm Tae Hyun Jung(Theo). I'm looking for a job. I have about 3 years of experience in Korea.
 
 # 💫 About Me:
 
