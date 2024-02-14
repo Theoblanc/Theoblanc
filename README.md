@@ -6,8 +6,6 @@ Hi there! I'm a passionate software developer with a keen focus on container tec
 
 Passionate about **Container Technologies & Orchestration**, I excel in leveraging **Docker** and **Kubernetes** to create secure, scalable environments. My programming prowess is defined by **Typescript** and **Go**, where I craft efficient, robust applications. I’m deeply invested in **Architecture & Design**, focusing on **Microservice Architecture**, **Event-Driven Architectures**, and **Clean Code** practices to build systems that are not only resilient but also scalable and maintainable.
 
-🚀 I'm always on the lookout to collaborate and innovate. Dive into my repositories or connect on GitHub to discover more about my technical journeys and contributions!
-
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-id)
