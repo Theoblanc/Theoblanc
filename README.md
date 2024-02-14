@@ -4,22 +4,9 @@ Hi there! I'm a passionate software developer with a keen focus on container tec
 
 ## 💡 Interests
 
-- **Container Technologies & Orchestration**
+Passionate about **Container Technologies & Orchestration**, I excel in leveraging **Docker** and **Kubernetes** to create secure, scalable environments. My programming prowess is defined by **Typescript** and **Go**, where I craft efficient, robust applications. I’m deeply invested in **Architecture & Design**, focusing on **Microservice Architecture**, **Event-Driven Architectures**, and **Clean Code** practices to build systems that are not only resilient but also scalable and maintainable.
 
-  - Proficient in Docker for containerization—creating lightweight, secure, and portable application environments.
-  - Skilled in Kubernetes for container orchestration, ensuring high availability, and seamless application scaling.
-
-- **Programming Languages**
-
-  - **Typescript**: Specialized in crafting scalable and maintainable web applications leveraging a strong type system.
-  - **Go**: Focused on building efficient, concurrent applications, perfect for high-performance backend services.
-
-- **Architecture & Design**
-  - **Microservice Architecture & Domain-Driven Design**: Committed to designing resilient, loosely coupled services that align with business domains for enhanced agility and scalability.
-  - **Event Sourcing & Event-Driven Architecture**: Implementing systems that record state changes as a sequence of events, facilitating asynchronous communication and complex business processes.
-  - **System Design & Clean Code**: Advocating for scalable system architecture and the practice of writing clean, understandable code that adheres to best practices and design patterns.
-
-Feel free to explore my repositories and connect with me on GitHub to see my contributions and collaborations in these areas!
+🚀 I'm always on the lookout to collaborate and innovate. Dive into my repositories or connect on GitHub to discover more about my technical journeys and contributions!
 
 ## 🌐 Socials
 
